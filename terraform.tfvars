@@ -1,0 +1,5 @@
+primary_firewall_hostname = "192.168.1.1"
+secondary_firewall_hostname = "192.168.1.2"
+firewall_username = "admin"
+firewall_password = "your_password"
+target_version    = "10.2.3"
